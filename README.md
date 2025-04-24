@@ -13,7 +13,7 @@
 
 1. Clona este repositorio a tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/mi-portafolio.git
+   git clone https://github.com/Jersabell/portafolio
    ```
 
 2. Instala las dependencias:
@@ -33,4 +33,4 @@
 - Otras herramientas: Git, GitHub, Figma (para diseño).
 
 ## Contacto
-Si quieres saber más sobre mis proyectos o colaborar en algún futuro, no dudes en contactarme a través de mi  [LinkedIn] (https://www.linkedin.com/in/jersabell-tineo/) o mi [correo electrónico] (mailto:jersabell@gmail.com).
+Si quieres saber más sobre mis proyectos o colaborar en algún futuro, no dudes en contactarme a través de mi  [LinkedIn](https://www.linkedin.com/in/jersabell-tineo/) o mi [correo electrónico](mailto:jersabell@gmail.com).
