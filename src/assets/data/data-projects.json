@@ -1,7 +1,7 @@
 [
     {
         "name" : "Portafolio",
-        "link" : "",
+        "link" : "https://jersabell-tineo-dev-portafolio.vercel.app/",
         "code" : "https://github.com/Jersabell/portafolio",
         "description" : "Landing page desarrollada para un programa académico universitario. Su objetivo es brindar información clara, visual y atractiva sobre el programa, incluyendo sus características, beneficios y calendarios.",
         "picture": "/programa-academico.png",
