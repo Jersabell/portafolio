@@ -1,0 +1,50 @@
+[
+    {
+        "name" : "Portafolio",
+        "link" : "",
+        "code" : "https://github.com/Jersabell/portafolio",
+        "description" : "Landing page desarrollada para un programa académico universitario. Su objetivo es brindar información clara, visual y atractiva sobre el programa, incluyendo sus características, beneficios y calendarios.",
+        "picture": "/programa-academico.png",
+        "technologies" : [ "React", "TypeScript", "Vite", "Tailwind"]
+    },
+    {
+        "name" : "Academic Program Landing Page",
+        "link" : "https://programa-academico.vercel.app/",
+        "code" : "https://github.com/Jersabell/programa-academico",
+        "description" : "Landing page desarrollada para un programa académico universitario. Su objetivo es brindar información clara, visual y atractiva sobre el programa, incluyendo sus características, beneficios y calendarios.",
+        "picture": "/programa-academico.png",
+        "technologies" : ["Javascript", "CSS", "Bootstrap", "HTML"]
+    },
+    {
+        "name" : "Buscador de eventos",
+        "link" : "https://buscador-eventos.vercel.app/",
+        "code" : "https://github.com/Jersabell/buscador-eventos",
+        "description" : "App que permite buscar eventos por nombre. Filtrar por un rango de fechas y por el tipo de eventos.",
+        "picture": "../images/projects/programa-academico.png",
+        "technologies" : ["Javascript", "CSS", "Bootstrap", "HTML"]
+    },
+    {
+        "name" : "Burger Queen",
+        "link" : "https://burger-restaurant-lim017.netlify.app/",
+        "code" : "https://github.com/Jersabell/LIM017-burger-queen-api-client",
+        "description" : "Aplicación web para un restaurante-cafetería que permite tomar pedidos a sus clientes, ver las órdenes pendientes y entregadas, también crear nuevos productos y usuarios, haciendo uso de una API (servidor).",
+        "picture": "../images/projects/programa-academico.png",
+        "technologies" : ["Javascript", "CSS", "HTML", "React" ]
+    },    
+    {
+        "name" : "Markdown Links",
+        "link" : "https://www.npmjs.com/package/md-links-jersabell",
+        "code" : "https://github.com/Jersabell/LIM017-md-links",
+        "description" : "Es una librería que analiza archivos en formato Markdown (.md) y verifica si contiene links. De ser así, muestra su estado 200 (ok), 404 (fail) o status no encontrado (fatal error). También cuenta el total de links, los que son únicos y los que están rotos.",
+        "picture": "../images/projects/programa-academico.png",
+        "technologies" : ["Javascript", "Node.js"]
+    },
+    {
+        "name" : "FitWomen",
+        "link" : "https://jersabell.github.io/LIM017-social-network/#/login",
+        "code" : "https://github.com/Jersabell/LIM017-social-network",
+        "description" : "Red social creada específicamente para mujeres que deseen compartir diversos temas orientados a un estilo de vida saludable; por ejemplo,alimentación, deporte, rutina de ejercicios, etc. Fit Women permitirá cualquier usuario crear una cuenta de acceso y loguearse con ella; crear, editar, borrar y likear publicacciones.",
+        "picture": "../images/projects/programa-academico.png",
+        "technologies" : ["Javascript", "CSS", "HTML", "Firebase"]
+    }
+]
